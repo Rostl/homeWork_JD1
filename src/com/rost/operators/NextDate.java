@@ -32,9 +32,7 @@ public class NextDate {
                 break;
             }
         }
-
         nextDay(day, month, year);
-
     }
 
     private static boolean isValidate(int day, int month, int year) {
